@@ -1,0 +1,18 @@
+version: 1
+imports: []
+schemas:
+  - id: typology
+    parent: root
+    title: typology
+    desc: "Collection in an ordered way where each child contains similar elements."
+    children:
+      - CyborgPlants
+  - id: CyborgPlants
+    title: CyborgPlants
+    namespace: true
+    desc: "Plants which are modified through technological methods."
+    template:
+      desc: "Template with similar elements for each Cyborg Plant grouping."
+      id: typology.CyborgPlants
+      title: Cyborg Plant grouping.
+      type: note

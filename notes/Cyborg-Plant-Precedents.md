@@ -2,7 +2,7 @@
 id: y96vr4pvw4v9fe87z7hv158
 title: Cyborg-Plant-Precedents
 desc: ""
-updated: 1660094216097
+updated: 1660525048216
 created: 1660094196943
 ---
 
@@ -73,6 +73,8 @@ No Research Paper, perhaps outcome of masters students.
 
 ![EmotiPlant](/assets/images/EmotiPlant.png){max-height: 300px}
 ![PlantsIO](/assets/images/PlantsIO.png){max-height: 300px}
+
+Leonardo Angelini, Maurizio Caon, Stefania Caparrotta, Omar Abou Khaled, and Elena Mugellini. 2016. Multi-sensory EmotiPlant: multimodal interaction with augmented plants. In Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing: Adjunct. ACM, Heidelberg Germany, 1001–1009. https://doi.org/10.1145/2968219.2968266
 
 The following use sensors to express a plant's status in relation to the environmental conditions.
 
@@ -300,9 +302,9 @@ The following are projects taken from a review article on Human-Plant Interactio
 
 Michelle Chang, Chenyi Shen, Aditi Maheshwari Andreea Danielescu, and Lining Yao. 2022. Patterns and Opportunities for the Design of Human-Plant Interaction. In Designing Interactive Systems Conference (DIS ’22), June 13–17, 2022, Virtual Event, Australia. ACM, New York, NY, USA, 24 pages. https://doi.org/10.1145/3532106.3533555
 
-**HCI**
+### HCI
 
-- [14] Leonardo Angelini, Maurizio Caon, Stefania Caparrotta, Omar Abou Khaled, and Elena Mugellini. 2016. Multi-sensory EmotiPlant: multimodal interaction with augmented plants. In Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing: Adjunct. ACM, Heidelberg Germany, 1001–1009. https://doi.org/10.1145/2968219.2968266
+- [14]
 - [15] Stavros Antifakos and Bernt Schiele. 2003. Laughinglily: Using a flower as a real world information display. In Proceedings of Ubicomp, Vol. 32003. 161–162.
 - [19] Björn Bittner, Ilhan Aslan, Chi Tai Dang, and Elisabeth André. 2019. Of Smarthomes, IoT Plants, and Implicit Interaction Design. In Proceedings of the Thirteenth International Conference on Tangible, Embedded, and Embodied Interaction (TEI ’19). Association for Computing Machinery, New York, NY, USA, 145–154. https://doi.org/10.1145/3294109.3295618 event-place: Tempe, Arizona, USA.
 - [21] Fadi Botros, Charles Perin, Bon Adriel Aseniero, and Sheelagh Carpendale. 2016. Go and Grow: Mapping Personal Data to a Living Plant. In Proceedings of the International Working Conference on Advanced Visual Interfaces (AVI ’16). Association for Computing Machinery, New York, NY, USA, 112–119. https: //doi.org/10.1145/2909132.2909267 event-place: Bari, Italy.
@@ -345,7 +347,7 @@ Michelle Chang, Chenyi Shen, Aditi Maheshwari Andreea Danielescu, and Lining Yao
 - [133] Alexandra Voit, Dominik Weber, Yomna Abdelrahman, Marie Salm, Pawe\l W. Woźniak, Katrin Wolf, Stefan Schneegass, and Niels Henze. 2020. Exploring Non-Urgent Smart Home Notifcations Using a Smart Plant System. In 19th International Conference on Mobile and Ubiquitous Multimedia (MUM 2020). Association for Computing Machinery, New York, NY, USA, 47–58. https: //doi.org/10.1145/3428361.3428466 event-place: Essen, Germany.
 - [144] Rewa Wright and Simon Howden. 2020. A Technique and Method for Mixed Reality Performance with Digital Augments, Gestural Data, and Living Plants. 235–239. https://doi.org/10.1007/978-3-030-51626-0_29
 
-**Bio and Electrical Engineering**
+### **Bio and Electrical Engineering**
 
 - [7] 2020. Grow Your Own Cloud. https://growyourown.cloud/
 - [13] Andrew Adamatzky. 2014. Towards plant wires. Biosystems 122 (2014), 1–6. https://doi.org/10.1016/j.biosystems.2014.06.006
@@ -367,7 +369,7 @@ Michelle Chang, Chenyi Shen, Aditi Maheshwari Andreea Danielescu, and Lining Yao
 - [139] Koen Wetser, Kim Dieleman, Cees Buisman, and David Strik. 2017. Electricity from wetlands: Tubular plant microbial fuels with silicone gas-difusion biocathodes. Applied Energy 185 (2017), 642–649. https://doi.org/10.1016/j.apenergy. 2016.10.122
 - [142] Min HaoWong, Juan P. Giraldo, Seon-Yeong Kwak, Volodymyr B. Koman, Rosalie Sinclair, Tedrick Thomas Salim Lew, Gili Bisker, Pingwei Liu, and Michael S. Strano. 2017. Nitroaromatic detection and infrared communication from wild-type plants using plant nanobionics. Nature Materials 16, 2 (Feb. 2017), 264– 272. https://doi.org/10.1038/nmat4771 Number: 2 Publisher: Nature Publishing Group.
 
-**Art and Design**
+### **Art and Design**
 
 - [4] 2016. Exhibitions | The Condition. https://exhibitions.hybridmatters.net/works/the-condition
 - [5] 2016. Laura Belof & Jonas Jørgensen. https://www.theearthissue.com/artists/laura-belof-jonas-jorgensen
@@ -377,7 +379,7 @@ Michelle Chang, Chenyi Shen, Aditi Maheshwari Andreea Danielescu, and Lining Yao
 - [143] Rewa Wright and Simon Howden. 2020. Augmenting a Human-Plant-Data Assemblage: The Contact Projects. 17.
 - [149] Jiwei Zhou, Bahareh Barati, Jun Wu, Diana Scherer, and Elvin Karana. 2020. Digital biofabrication to realize the potentials of plant roots for product design. Bio-Design and Manufacturing (Sept. 2020). https://doi.org/10.1007/s42242-020-00088-2
 
-**Architecture and Robotic Control**
+### **Architecture and Robotic Control**
 
 - ![](/assets/images/CattedralVegetale.png) 2010. Cattedrale Vegetale (Tree Cathedral). http://www.atlasobscura.com/places/cattedrale-vegetale-tree-cathedral
 - [47] Heiko Hamann, Mohammad Divband Soorati, Mary Katherine Heinrich, Daniel Nicolas Hofstadler, Igor Kuksin, Frank Veenstra, MostafaWahby, Stig Anton Nielsen, Sebastian Risi, Tomasz Skrzypczak, and others. 2017. Flora robotica–An Architectural System Combining Living Natural Plants and Distributed Robots. arXiv preprint arXiv:1709.04291 (2017). http://arxiv.org/abs/1709.04291
