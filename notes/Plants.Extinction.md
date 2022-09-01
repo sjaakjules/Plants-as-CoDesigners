@@ -2,7 +2,7 @@
 id: qxwplk4mw9konkg05jycavj
 title: Extinction
 desc: ""
-updated: 1661480490702
+updated: 1661481787822
 created: 1661474755698
 ---
 
@@ -106,3 +106,15 @@ Not included
 [Story of extinct in the wild plants](https://www.segrasslands.org/blog/2020/9/11/tales-from-the-crypt-extinct-plants-of-the-southeastern-grasslands)
 
 [Saving last shrub](https://www.indefenseofplants.com/blog/2018/5/16/saving-one-of-north-americas-rarest-shrubs)
+
+## Conservation in Natural areas
+
+Natural matters because we can plant endangered plants anywhere and protect that area. (why is this bad?)
+assisted migration and translocation. - sea level raise and human habitat expansion and distruction.
+We will have to move them, but not jsut to a garden but to a similar place.
+
+purple twitcher plant
+
+we shouldn't spend conservation money into sites that are intact and has heritage
+
+keeping systems intact and working. Doesn't mean we cant translocate but focus on systems and they are so complex that re-create cannot occur if we don't know the full extent of the system.
